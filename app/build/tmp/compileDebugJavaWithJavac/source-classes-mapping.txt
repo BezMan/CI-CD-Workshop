@@ -1,0 +1,2 @@
+com/example/android/ci_cd_workshop/BuildConfig.java
+ com.example.android.ci_cd_workshop.BuildConfig
