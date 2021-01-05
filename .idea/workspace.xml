@@ -24,7 +24,12 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d3510e52-5684-41f8-af90-e2e6b0e35493" name="Default Changelist" comment="" />
+    <list default="true" id="d3510e52-5684-41f8-af90-e2e6b0e35493" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.github/workflows/test.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/.github/workflows/test.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.5/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.5/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/checksums/checksums.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/checksums/checksums.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -35,6 +40,9 @@
     <projectState path="$PROJECT_DIR$">
       <ProjectState />
     </projectState>
+  </component>
+  <component name="GenerateSignedApkSettings">
+    <option name="BUILD_TARGET_KEY" value="apk" />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -55,6 +63,7 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ApkExportedModule" value="CI_CD_Workshop.app" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
@@ -175,7 +184,14 @@
       <option name="project" value="LOCAL" />
       <updated>1609869273874</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="added all files">
+      <created>1609869681008</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1609869681008</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -196,28 +212,33 @@
     <MESSAGE value="added firebase" />
     <MESSAGE value="added CI job" />
     <MESSAGE value="added gradle files" />
-    <option name="LAST_COMMIT_MESSAGE" value="added gradle files" />
+    <MESSAGE value="added all files" />
+    <option name="LAST_COMMIT_MESSAGE" value="added all files" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="311" y="282" key="CommitChangelistDialog2" timestamp="1609869272765">
+    <state x="311" y="282" key="CommitChangelistDialog2" timestamp="1609869670320">
       <screen x="0" y="0" width="2560" height="1409" />
     </state>
-    <state x="311" y="282" key="CommitChangelistDialog2/0.0.2560.1409@0.0.2560.1409" timestamp="1609869272765" />
+    <state x="311" y="282" key="CommitChangelistDialog2/0.0.2560.1409@0.0.2560.1409" timestamp="1609869670320" />
     <state x="1373" y="100" width="1093" height="1216" key="DiffContextDialog" timestamp="1609868632920">
       <screen x="0" y="0" width="2560" height="1409" />
     </state>
     <state x="1373" y="100" width="1093" height="1216" key="DiffContextDialog/0.0.2560.1409@0.0.2560.1409" timestamp="1609868632920" />
+    <state x="423" y="432" key="FileChooserDialogImpl" timestamp="1609869913633">
+      <screen x="0" y="0" width="2560" height="1409" />
+    </state>
+    <state x="423" y="432" key="FileChooserDialogImpl/0.0.2560.1409@0.0.2560.1409" timestamp="1609869913633" />
     <state x="351" y="407" key="RollbackChangesDialog" timestamp="1609748573578">
       <screen x="0" y="0" width="2560" height="1409" />
     </state>
     <state x="351" y="407" key="RollbackChangesDialog/0.0.2560.1409@0.0.2560.1409" timestamp="1609748573578" />
-    <state x="233" y="438" key="Vcs.Push.Dialog.v2" timestamp="1609869291630">
+    <state x="233" y="438" key="Vcs.Push.Dialog.v2" timestamp="1609869696653">
       <screen x="0" y="0" width="2560" height="1409" />
     </state>
-    <state x="233" y="438" key="Vcs.Push.Dialog.v2/0.0.2560.1409@0.0.2560.1409" timestamp="1609869291630" />
-    <state x="1583" y="323" width="672" height="678" key="search.everywhere.popup" timestamp="1609868303078">
+    <state x="233" y="438" key="Vcs.Push.Dialog.v2/0.0.2560.1409@0.0.2560.1409" timestamp="1609869696653" />
+    <state x="1583" y="323" width="672" height="678" key="search.everywhere.popup" timestamp="1609870022713">
       <screen x="0" y="0" width="2560" height="1409" />
     </state>
-    <state x="1583" y="323" width="672" height="678" key="search.everywhere.popup/0.0.2560.1409@0.0.2560.1409" timestamp="1609868303078" />
+    <state x="1583" y="323" width="672" height="678" key="search.everywhere.popup/0.0.2560.1409@0.0.2560.1409" timestamp="1609870022713" />
   </component>
 </project>
